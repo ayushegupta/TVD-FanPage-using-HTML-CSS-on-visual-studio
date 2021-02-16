@@ -1,0 +1,36 @@
+﻿<style > 
+h1
+{
+    font-family: 'Algerian';
+    font-size: xx-large;
+    color: #FFD700;
+}
+
+img
+{
+    height: 200px;
+    width: 250px;
+    margin: 30px;
+}
+p
+{
+    font-family: 'Times New Roman';
+    font-size: large;
+    color: #FFD700;
+    margin: 30px;
+    text-align: justify;
+}
+body
+{
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+font
+{
+    font-family: 'Monotype Corsiva';
+    font-size: 36px;
+    color: #FFD700;
+    font-style: normal;
+}
+</style>
